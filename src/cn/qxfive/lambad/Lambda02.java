@@ -6,6 +6,12 @@ public class Lambda02 {
         boolean test(T t);
 
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
+
     @FunctionalInterface
     interface  kkk<T>{
         String ssh(T t);
