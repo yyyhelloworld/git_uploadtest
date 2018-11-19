@@ -10,6 +10,10 @@ public class Lambda02 {
     interface  kkk<T>{
         String ssh(T t);
     }
+
+    static void test(){
+
+    }
     /**
      * 执行Predicate判断
      *
