@@ -8,5 +8,13 @@ public class Test05 {
         int i=1/2;
         System.out.println(i);
         System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");  System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");
+          System.out.println("sdfiihsfdhsidf");  System.out.println("sdfiihsfdhsidf");  System.out.println("sdfiihsfdhsidf");
     }
 }
