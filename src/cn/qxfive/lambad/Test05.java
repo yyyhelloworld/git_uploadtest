@@ -5,6 +5,8 @@ public class Test05 {
         TableRequest build = new TableRequest.Builder().setDeviceId("sf").setPassword("yq").build();
         System.out.println(build.toString());
         System.out.println(23);
+        int i=1/2;
+        System.out.println(i);
         System.out.println("sdfiihsfdhsidf");
     }
 }
